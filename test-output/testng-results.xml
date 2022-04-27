@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13520" started-at="2022-04-27T18:52:34 IST" finished-at="2022-04-27T18:52:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13520" started-at="2022-04-27T18:52:34 IST" finished-at="2022-04-27T18:52:48 IST">
+      <class name="verveTech.ScreenCode">
+        <test-method status="PASS" signature="login()[pri:0, instance:verveTech.ScreenCode@7e2d773b]" name="login" is-config="true" duration-ms="6924" started-at="2022-04-27T18:52:34 IST" finished-at="2022-04-27T18:52:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="sendkeys()[pri:0, instance:verveTech.ScreenCode@7e2d773b]" name="sendkeys" duration-ms="5602" started-at="2022-04-27T18:52:41 IST" finished-at="2022-04-27T18:52:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendkeys -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:verveTech.ScreenCode@7e2d773b]" name="logout" is-config="true" duration-ms="928" started-at="2022-04-27T18:52:47 IST" finished-at="2022-04-27T18:52:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- verveTech.ScreenCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
